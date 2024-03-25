@@ -3,7 +3,7 @@
 
 A visualizer for Codeforce made with CF API\
 
-Link to site https://rexskth.github.io/CPA-master/
+Link to site https://rexskth.github.io/CodeForces-Profile-Analyzer/
 
 Codeforces Visualizer is a visualization of Codeforces user profile. With beautiful and interactive graphs and informations you can look at your CF profile from a new perspective. The Beta version offers some features
 
