@@ -42,5 +42,5 @@ And many mores
 ## Dependencies
 
 For visualization: chart.js, google chart api\
-For serverside: Axios,Node.js [ Thanks to Mehrab Haque Zehady ( @mehrab-haque ) for this part ]\
+For serverside: Axios,Node.js [ Thanks to prakhar for this part ]\
 For frontend: HTML,CSS,JavaScript,Ajax.js\
